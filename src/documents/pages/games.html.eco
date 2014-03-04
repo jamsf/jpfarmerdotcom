@@ -1,13 +1,12 @@
-```
+---
 title: Games
 layout: page
-tags: ['games','page']
-pageOrder: 3
-```
+pageOrder: 1
+---
 
-<di v class="well" style="width:680px;">
+<div class="well" style="width:680px;">
 
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
@@ -15,8 +14,9 @@ pageOrder: 3
 					</div>
 				</td>
 				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
+					<div class="style23" align="left">
+						<strong>Genre: Mobile Roguelike-like</strong>
+					</div>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
@@ -24,221 +24,152 @@ pageOrder: 3
 					<div class="style13" align="left"><iframe width="256" height="192" src="//www.youtube.com/embed/-3KxVcQ4qR0" frameborder="0" allowfullscreen></iframe></div>
 				</td>
 				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
+					<p class="style23" align="left">
+						An action adventure game with roguelike elements for mobile devices. Play as the Knight, Wizard or Rogue in bite-sized riveting adventures while you stand in line for something less exciting. Created by <a href="http://microventuresgame.com/"><strong>Studio Mu</strong></a> as our final Senior Game Project for UC Santa Cruz. 
+						<br><br>
+						<a href="https://itunes.apple.com/us/app/microventures/id589994705"><strong>MicroVentures on iOS</strong></a><br>
+						<a href="https://play.google.com/store/apps/details?id=com.studiomu.microventures"><strong>MicroVentures on Android</strong></a><br>
+						Listen to the <a href="https://soundcloud.com/erickarllawson/sets/microventures-ost"><strong>Soundtrack by Eric Karl Lawson</strong></a>.
+					</p>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td colspan="2" class="style20">
 					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
+					June 2012 - Development time: 6 months - Music by <a href="https://soundcloud.com/erickarllawson">Eric Lawton</a></strong></div>
 				</td>
 			</tr>
 		</tbody>
 	</table>
-
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://www.cactusquid.com/games/CactusArcadeII.zip"><strong>Cactus
-					Arcade II</strong></a></div>
+					<div class="style23" align="left"><a href="https://dl.dropboxusercontent.com/u/47529367/Games/Shapespionage.exe"><strong>Shapespionage!</strong></a>
+					</div>
 				</td>
 				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
+					<div class="style23" align="left">
+						<strong>Genre: Stealth Action with Shapes</strong>
+					</div>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20">
-					<div class="style13" align="left"><img src="http://cactusquid.com/thumbs/arcade2.png" border="1"></div>
+					<div class="style13" align="left"><img src="/thumbs/shapespionage.png" border="1"></iframe></div>
 				</td>
 				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
+					<p class="style23" align="left">
+						This was the first game I ever made with friend <a href"http://www.adammagleby.com/"><strong>Adam Magelby</strong></a>. Shapespionage! is a 2D, top-down stealth game. Players take on the role of Cross, a soldier aiming to take down the Double Helix corporation and end the oppression of his people. Filled with drama and suspense, it is a love letter to one of our favorite games, Metal Gear Solid. Made in Game Maker, all art done in MS Paint. 
+					</p>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td colspan="2" class="style20">
 					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
+					March 2009 - Development time: 1 month - Music by Various
 				</td>
 			</tr>
 		</tbody>
 	</table>
-
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://www.cactusquid.com/games/CactusArcadeII.zip"><strong>Cactus
-					Arcade II</strong></a></div>
+					<div class="style23" align="left"><a href="https://dl.dropboxusercontent.com/u/47529367/Games/RedSea.rar"><strong>Red Sea</strong></a>
+					</div>
 				</td>
 				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
+					<div class="style23" align="left">
+						<strong>Genre: Physics-based Serious Game</strong>
+					</div>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20">
-					<div class="style13" align="left"><img src="http://cactusquid.com/thumbs/arcade2.png" border="1"></div>
+					<div class="style13" align="left"><img src="/thumbs/redsea.png" border="1"></iframe></div>
 				</td>
 				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
+					<p class="style23" align="left">
+						Red Sea is a dark game where story and gameplay are intertwined. This game was a project based off the 2010 Microsoft Imagine Cup's theme of Disease. Made using XNA with Farseer Physics.
+					</p>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td colspan="2" class="style20">
 					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
+					March 2010 - Development time: 2 months - Music by James Farmer
 				</td>
 			</tr>
 		</tbody>
 	</table>
-
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://www.cactusquid.com/games/CactusArcadeII.zip"><strong>Cactus
-					Arcade II</strong></a></div>
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/adventure/sigillum/21803/"><strong>sigillum</strong></a>
+					</div>
 				</td>
 				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
+					<div class="style23" align="left">
+						<strong>Genre: Experimental</strong>
+					</div>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20">
-					<div class="style13" align="left"><img src="http://cactusquid.com/thumbs/arcade2.png" border="1"></div>
+					<div class="style13" align="left"><img src="/thumbs/sigillum.png" border="1"></iframe></div>
 				</td>
 				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
+					<p class="style23" align="left">
+						sigillum is an atmospheric, experimental game made for Ludum Dare 26. I focused on minimal exposition and sound design. Created using FlashPunk.<br><br>
+						Seen on <a href="https://www.youtube.com/watch?v=CGryNUt6_D4"><strong>Indie Statik</strong></a>
+					</p>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td colspan="2" class="style20">
 					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
+					April 2013 - Development time: 48 hours - Music by Sigillum S and Super Minerals
 				</td>
 			</tr>
 		</tbody>
 	</table>
-
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://www.cactusquid.com/games/CactusArcadeII.zip"><strong>Cactus
-					Arcade II</strong></a></div>
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/puzzle/bomb-disposer/21804/"><strong>Bomb Disposer</strong></a>
+					</div>
 				</td>
 				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
+					<div class="style23" align="left">
+						<strong>Genre: Story-based Puzzle</strong>
+					</div>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20">
-					<div class="style13" align="left"><img src="http://cactusquid.com/thumbs/arcade2.png" border="1"></div>
+					<div class="style13" align="left"><img src="/thumbs/bombdisposer.png" border="1"></iframe></div>
 				</td>
 				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
+					<p class="style23" align="left">
+						Bomb Disposer, made for Ludum Dare 27, is a game where you have 10 seconds to diffuse each bomb you come across. Reading through the story snippets gives clues on the right order to cut the bomb's wires. Made in FlashPunk.
+					</p>
 				</td>
 			</tr>
 			<tr bgcolor="#111111" valign="top">
 				<td colspan="2" class="style20">
 					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="5" cellspacing="80" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://www.cactusquid.com/games/CactusArcadeII.zip"><strong>Cactus
-					Arcade II</strong></a></div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left"><strong>Genre:
-					Mixed - Rating: On Fire </strong></div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="http://cactusquid.com/thumbs/arcade2.png" border="1"></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">If you're
-					looking to get into the games on the site, here's another good place to
-					start. This collection offers some of the very best of the games
-					currently available on the site. With no less than 19 games of genres
-					ranging from shoot em ups and platformers to adventure games and first
-					person shooters. </p>
-					<p class="style13" align="left"><strong>Contains:</strong>
-					<br>
-					ad nauseam 2, blockon, evac, gamma 4, krebswelte, kryzta, norrland, ping pong, 
-					precision, protoganda II, retro 4, silent chain, space fuck, stallions in america, 
-					stench mechanics, this is infinity, ultra mission, xoldiers </p
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					Aug 13 2010 - Development time: Unknown - Music by V/A </strong></div>
+					August 2013 - Development time: 48 hours - Music by Muslimgauze
 				</td>
 			</tr>
 		</tbody>
 	</table>
 
 </div>
+
