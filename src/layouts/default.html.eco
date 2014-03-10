@@ -14,6 +14,9 @@
 	<meta name="description" content="<%= @getPreparedDescription() %>" />
 	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
 	<meta name="author" content="<%= @site.author or '' %>" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="/scripts/tabSlideOut.js"></script>
+	<script src="/scripts/script.js"></script>
 
 	<!-- Output DocPad produced meta elements -->
 	<%- @getBlock('meta').toHTML() %>
@@ -38,7 +41,7 @@
 </head>
 <body>
 	<!-- Menu -->
-	<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar navbar-inverse navbar-fixed-top nav-jpfarmer">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -61,16 +64,26 @@
 							</a>
 						</li>
 					<% end %>
-					<li>
-						<a href="http://jpfarmer.com">Blog</a>
-					</li>
+					<!--li>
+						<a href="http://jpfarmer.com" target="_blank">Blog</a>
+					</li-->
 				</ul>
 			</div><!--/.navbar-collapse -->
 		</div>
 	</div>
 
+	<div class="slide-out-div">
+		<a class="handle" href="http://link-for-non-js-users.html">Content</a>
+		<a class="twitter_button" href="https://twitter.com/_glocks"></a>
+		<a class="gmail_button" href="mailto:JFarmer54@gmail.com"></a>
+		<a class="linkedin_button" href="http://www.linkedin.com/pub/james-farmer/45/37b/353"></a>
+		<a class="gamejolt_button" href="http://gamejolt.com/profile/james-ffff/150365/"></a>
+		<a class="wordpress_button" href="http://jpfarmer.com"></a>
+	</div>
+
 	<!-- Content -->
 	<div class="container">
+
 		<!-- Content -->
 		<section id="content" class="content">
 			<%- @content %>
