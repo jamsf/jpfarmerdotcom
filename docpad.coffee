@@ -105,6 +105,9 @@ docpadConfig = {
 					tarExtractClean: true
 				}
 			]
+		ghpages:
+			deployRemote: 'target'
+			deployBranch: 'master'
 
 
 	# =================================
