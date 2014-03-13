@@ -4,15 +4,18 @@ a, a:link
 	cursor pointer
 
 @font-face
-	font-family: myFirstFont
-	src: url(sansation_light.woff)
+	font-family: '04B03'
+	src: url('/fonts/04B03.ttf') format('truetype')
+
+h1
+	font-family '04B03'
+	font-size 48px
 
 body
 	font-family "Lucida Sans Unicode"
 	padding-top 60px
 	color #EEEEEE
 	background-image url('/images/bg.png');
-	background-repeat no-repeat
 	background-attachment fixed
 
 .style20
@@ -43,42 +46,53 @@ table
 	 height 54px
 	 margin 8px
 	 display block
-	 display inline-block
-	 background center
-	 background-repeat no-repeat
-
-.twitter_button
-	 background-image url('/icons/twitter_up.png')
-.twitter_button:hover
-	background-image url('/icons/twitter_down.png')
-.twitter_button:active
-	background-image url('/icons/twitter_pressed.png')
+	 background-image url('/icons/button_sheet.png')
 
 .linkedin_button
-	 background-image url('/icons/linkedin_up.png')
+	background-position 0px 0px
 .linkedin_button:hover
-	background-image url('/icons/linkedin_down.png')
+	background-position 0px -54px
 .linkedin_button:active
-	background-image url('/icons/linkedin_pressed.png')
+	background-position 0px -108px
 
-.gmail_button
-	 background-image url('/icons/gmail_up.png')
-.gmail_button:hover
-	background-image url('/icons/gmail_down.png')
-.gmail_button:active
-	background-image url('/icons/gmail_pressed.png')
-
-.gamejolt_button
-	 background-image url('/icons/gamejolt_up.png')
-.gamejolt_button:hover
-	background-image url('/icons/gamejolt_down.png')
-.gamejolt_button:active
-	background-image url('/icons/gamejolt_pressed.png')
+.twitter_button
+	background-position -46px 0px
+.twitter_button:hover
+	background-position -46px -54px
+.twitter_button:active
+	background-position -46px -108px
 
 .wordpress_button
-	 background-image url('/icons/wordpress_up.png')
+	background-position -92px 0px
 .wordpress_button:hover
-	background-image url('/icons/wordpress_down.png')
+	background-position -92px -54px
 .wordpress_button:active
-	background-image url('/icons/wordpress_pressed.png')
+	background-position -92px -108px
 
+.gmail_button
+	background-position -138px 0px
+.gmail_button:hover
+	background-position -138px -54px
+.gmail_button:active
+	background-position -138px -108px
+
+.gamejolt_button
+	background-position -184px 0px
+.gamejolt_button:hover
+	background-position -184px -54px
+.gamejolt_button:active
+	background-position -184px -108px
+
+@media screen
+	div#preloader
+		position: absolute;
+		left: -9999px;
+		top:  -9999px;
+	div#preloader img
+		display: block;
+
+@media print
+	div#preloader, 
+	div#preloader img
+		visibility: hidden;
+		display: none;

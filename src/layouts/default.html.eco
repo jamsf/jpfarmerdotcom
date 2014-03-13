@@ -14,9 +14,6 @@
 	<meta name="description" content="<%= @getPreparedDescription() %>" />
 	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
 	<meta name="author" content="<%= @site.author or '' %>" />
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="/scripts/tabSlideOut.js"></script>
-	<script src="/scripts/script.js"></script>
 
 	<!-- Output DocPad produced meta elements -->
 	<%- @getBlock('meta').toHTML() %>
@@ -34,12 +31,22 @@
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+		<![endif]-->
 
-	<!-- Styles -->
-	<%- @getBlock('styles').add(@site.styles).toHTML() %>
-</head>
-<body>
+		<!-- Styles -->
+		<%- @getBlock('styles').add(@site.styles).toHTML() %>
+
+		<!-- Google Analytics -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-48937841-1', 'jpfarmer.com');
+			ga('send', 'pageview');
+		</script>
+	</head>
+	<body>
 	<!-- Menu -->
 	<div class="navbar navbar-inverse navbar-fixed-top nav-jpfarmer">
 		<div class="container">
@@ -78,7 +85,7 @@
 		<a class="gmail_button" href="mailto:JFarmer54@gmail.com"></a>
 		<a class="linkedin_button" href="http://www.linkedin.com/pub/james-farmer/45/37b/353"></a>
 		<a class="gamejolt_button" href="http://gamejolt.com/profile/james-ffff/150365/"></a>
-		<a class="wordpress_button" href="http://jpfarmer.com"></a>
+		<a class="wordpress_button" href="http://jpfarmer.wordpress.com"></a>
 	</div>
 
 	<!-- Content -->
@@ -97,6 +104,25 @@
 			</p>
 		</footer>
 	</div><!-- /container -->
+
+	<!-- Preloader -->
+	<div id="preloader">
+		<img src="/icons/gamejolt_up.png" width="1" height="1" />
+		<img src="/icons/gamejolt_down.png" width="1" height="1" />
+		<img src="/icons/gamejolt_pressed.png" width="1" height="1" />
+		<img src="/icons/wordpress_up.png" width="1" height="1" />
+		<img src="/icons/wordpress_down.png" width="1" height="1" />
+		<img src="/icons/wordpress_pressed.png" width="1" height="1" />
+		<img src="/icons/twitter_up.png" width="1" height="1" />
+		<img src="/icons/twitter_down.png" width="1" height="1" />
+		<img src="/icons/twitter_pressed.png" width="1" height="1" />
+		<img src="/icons/gmail_up.png" width="1" height="1" />
+		<img src="/icons/gmail_down.png" width="1" height="1" />
+		<img src="/icons/gmail_pressed.png" width="1" height="1" />
+		<img src="/icons/linkedin_up.png" width="1" height="1" />
+		<img src="/icons/linkedin_down.png" width="1" height="1" />
+		<img src="/icons/linkedin_pressed.png" width="1" height="1" />
+	</div>
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>

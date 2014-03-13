@@ -12,16 +12,14 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://jpfarmer.com"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "JAMES FARMER || @_GLOCKS"
 
 			# The website description (for SEO)
 			description: """
@@ -30,14 +28,14 @@ docpadConfig = {
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				james, farmer, games, development, indie, statik, microventures, ucsc, programming, design
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "James Farmer"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "JFarmer54@gmail.com"
 
 			# Styles
 			styles: [
@@ -50,6 +48,7 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
 				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
+				"/scripts/tabSlideOut.js"
 				"/scripts/script.js"
 			]
 
@@ -64,7 +63,7 @@ docpadConfig = {
 		getPreparedTitle: ->
 			# if we have a document title, then we should use that and suffix the site's title onto it
 			if @document.title
-				"#{@document.title} | #{@site.title}"
+				"#{@document.title} || #{@site.title}"
 			# if our document does not have it's own title, then we should just use the site's title
 			else
 				@site.title
