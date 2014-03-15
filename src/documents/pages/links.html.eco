@@ -1,0 +1,19 @@
+---
+title: Links
+layout: page
+pageOrder: 2
+---
+
+<div class="well" style="width:800px;">
+	<h3>Other Work</h3>
+	<ul>
+		<li><a href="https://dl.dropboxusercontent.com/u/47529367/Games/radio.exe">radio - A multiplayer survival horror prototype made in Game Maker</a></li>
+	</ul>
+	<h3>Website Credits</h3>
+	<ul>
+		<li><a href="http://docpad.org/">Docpad - Streamlined Web Development</a></li>
+		<li><a href="http://blog.soulwire.co.uk/laboratory/flash/as3-bitmapdata-glitch-generator">Smack My Glitch Up: AS3 BitmapData Glitch Generator</a></li>
+		<li><a href="http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=4987">BECOME A GREAT ARTIST IN JUST 10 SECONDS by Michael Brough and Andi McClure</a></li>
+	</ul>
+	<br>
+</div>
