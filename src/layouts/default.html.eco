@@ -61,7 +61,7 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
 					<% for document in @getCollection('pages').toJSON(): %>
-						<li
+							<li
 							typeof="sioc:Page"
 							about="<%= document.url %>"
 							class="<%= 'active'	if @document.url is document.url %>"
@@ -71,9 +71,9 @@
 							</a>
 						</li>
 					<% end %>
-					<!--li>
-						<a href="http://jpfarmer.com" target="_blank">Blog</a>
-					</li-->
+					<li>
+						<a href="http://jpfarmer.wordpress.com" target="_blank">Blog</a>
+					</li>
 				</ul>
 			</div><!--/.navbar-collapse -->
 		</div>
@@ -104,25 +104,6 @@
 			</p>
 		</footer>
 	</div><!-- /container -->
-
-	<!-- Preloader -->
-	<div id="preloader">
-		<img src="/icons/gamejolt_up.png" width="1" height="1" />
-		<img src="/icons/gamejolt_down.png" width="1" height="1" />
-		<img src="/icons/gamejolt_pressed.png" width="1" height="1" />
-		<img src="/icons/wordpress_up.png" width="1" height="1" />
-		<img src="/icons/wordpress_down.png" width="1" height="1" />
-		<img src="/icons/wordpress_pressed.png" width="1" height="1" />
-		<img src="/icons/twitter_up.png" width="1" height="1" />
-		<img src="/icons/twitter_down.png" width="1" height="1" />
-		<img src="/icons/twitter_pressed.png" width="1" height="1" />
-		<img src="/icons/gmail_up.png" width="1" height="1" />
-		<img src="/icons/gmail_down.png" width="1" height="1" />
-		<img src="/icons/gmail_pressed.png" width="1" height="1" />
-		<img src="/icons/linkedin_up.png" width="1" height="1" />
-		<img src="/icons/linkedin_down.png" width="1" height="1" />
-		<img src="/icons/linkedin_pressed.png" width="1" height="1" />
-	</div>
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
