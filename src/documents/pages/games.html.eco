@@ -46,6 +46,166 @@ pageOrder: 1
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/arcade/space-taxi/33107/"><strong>Space Taxi</strong></a>
+					</div>
+				</td>
+				<td class="style20" width="394">
+					<div class="style23" align="left">
+						<strong>Genre: Taxi-based physics</strong>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20">
+					<div class="style13" align="left"><img src="/thumbs/space_taxi.png" border="1"></iframe></div>
+				</td>
+				<td class="style20">
+					<p class="style23" align="left">
+						This was a game for Ludum Dare 30 made with Chloi Rad. It's a 2D taxi game in space using HaxeFlixel and Nape Physics. You get to give lots of space aliens a ride and listen to the wonderful space radio stations. 
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td colspan="2" class="style20">
+					<div class="style23" align="left"><strong>Created:
+					January 2014 - Development time: 48 hours - Radio Stations by <a href="https://soundcloud.com/peter-hunter">Peter Hunter</a></strong>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
+		<tbody>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20" width="196">
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/other/our-neighborhood/21801/"><strong>Our Neighborhood</strong></a>
+					</div>
+				</td>
+				<td class="style20" width="394">
+					<div class="style23" align="left">
+						<strong>Genre: Gentrification</strong>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20">
+					<div class="style13" align="left"><img src="/thumbs/ourneighborhood.png" border="1"></iframe></div>
+				</td>
+				<td class="style20">
+					<p class="style23" align="left">
+						This was a game made for Global Game Jam 2014 that I consider unfinished. It's about the current tech boom in San Francisco and the gentrification that it brings to various neighborhoods in the Bay Area. Maybe I'll add more to it one day, but for now it's more of an experience than a game.
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td colspan="2" class="style20">
+					<div class="style23" align="left"><strong>Created:
+					January 2014 - Development time: 48 hours - Music by Plone</strong>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
+		<tbody>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20" width="196">
+					<div class="style23" align="left"><a href="http://2013.globalgamejam.org/2013/polygraph"><strong>The Polygraph</strong></a>
+					</div>
+				</td>
+				<td class="style20" width="394">
+					<div class="style23" align="left">
+						<strong>Genre: Interrogation Simulator</strong>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20">
+					<div class="style13" align="left"><img src="/thumbs/thepolygraph.png" border="1"></iframe></div>
+				</td>
+				<td class="style20">
+					<p class="style23" align="left">
+						This game was made for Global Game Jam 2013 by me and Chloi Rad. The Polygraph is a noir-themed detective story has the player trying to maintain calm through a polygraph test by hitting space at just the right moment in a rhythm game. <a href="http://ggj.soe.ucsc.edu/node/91"><strong>[Voted Best Use of Theme and #3 Overall at UCSC Jam Site]</strong></a><br><br>
+						Also Covered in <a href="http://www.pcgamer.com/2013/01/29/five-terrific-games-from-the-global-game-jam-2013/"><strong>PC Gamer</strong></a>
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td colspan="2" class="style20">
+					<div class="style23" align="left"><strong>Created:
+					January 2013 - Development time: 48 hours - Music by <a href="https://soundcloud.com/peter-hunter">Peter Hunter</a></strong>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
+		<tbody>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20" width="196">
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/puzzle/bomb-disposer/21804/"><strong>Bomb Disposer</strong></a>
+					</div>
+				</td>
+				<td class="style20" width="394">
+					<div class="style23" align="left">
+						<strong>Genre: Story-based Puzzle</strong>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20">
+					<div class="style13" align="left"><img src="/thumbs/bombdisposer.png" border="1"></iframe></div>
+				</td>
+				<td class="style20">
+					<p class="style23" align="left">
+						Bomb Disposer, made for Ludum Dare 27, is a game where you have 10 seconds to diffuse each bomb you come across. Reading through the story snippets gives clues on the right order to cut the bomb's wires. Made in FlashPunk.
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td colspan="2" class="style20">
+					<div class="style23" align="left"><strong>Created:
+					August 2013 - Development time: 48 hours - Music by Muslimgauze
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
+		<tbody>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20" width="196">
+					<div class="style23" align="left"><a href="http://gamejolt.com/games/adventure/sigillum/21803/"><strong>sigillum</strong></a>
+					</div>
+				</td>
+				<td class="style20" width="394">
+					<div class="style23" align="left">
+						<strong>Genre: Experimental</strong>
+					</div>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20">
+					<div class="style13" align="left"><img src="/thumbs/sigillum.png" border="1"></iframe></div>
+				</td>
+				<td class="style20">
+					<p class="style23" align="left">
+						sigillum is an atmospheric, experimental game made for Ludum Dare 26. I focused on minimal exposition and sound design. Created using FlashPunk.<br><br>
+						Seen on <a href="https://www.youtube.com/watch?v=CGryNUt6_D4"><strong>Indie Statik</strong></a>
+					</p>
+				</td>
+			</tr>
+			<tr bgcolor="#111111" valign="top">
+				<td colspan="2" class="style20">
+					<div class="style23" align="left"><strong>Created:
+					April 2013 - Development time: 48 hours - Music by Sigillum S and Super Minerals
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
+		<tbody>
+			<tr bgcolor="#111111" valign="top">
+				<td class="style20" width="196">
 					<div class="style23" align="left"><a href="https://dl.dropboxusercontent.com/u/47529367/Games/Shapespionage.exe"><strong>Shapespionage!</strong></a>
 					</div>
 				</td>
@@ -106,136 +266,6 @@ pageOrder: 1
 		</tbody>
 	</table>
 	<br>
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://gamejolt.com/games/adventure/sigillum/21803/"><strong>sigillum</strong></a>
-					</div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left">
-						<strong>Genre: Experimental</strong>
-					</div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="/thumbs/sigillum.png" border="1"></iframe></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">
-						sigillum is an atmospheric, experimental game made for Ludum Dare 26. I focused on minimal exposition and sound design. Created using FlashPunk.<br><br>
-						Seen on <a href="https://www.youtube.com/watch?v=CGryNUt6_D4"><strong>Indie Statik</strong></a>
-					</p>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					April 2013 - Development time: 48 hours - Music by Sigillum S and Super Minerals
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://gamejolt.com/games/puzzle/bomb-disposer/21804/"><strong>Bomb Disposer</strong></a>
-					</div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left">
-						<strong>Genre: Story-based Puzzle</strong>
-					</div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="/thumbs/bombdisposer.png" border="1"></iframe></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">
-						Bomb Disposer, made for Ludum Dare 27, is a game where you have 10 seconds to diffuse each bomb you come across. Reading through the story snippets gives clues on the right order to cut the bomb's wires. Made in FlashPunk.
-					</p>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					August 2013 - Development time: 48 hours - Music by Muslimgauze
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://2013.globalgamejam.org/2013/polygraph"><strong>The Polygraph</strong></a>
-					</div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left">
-						<strong>Genre: Interrogation Simulator</strong>
-					</div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="/thumbs/thepolygraph.png" border="1"></iframe></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">
-						This game was made for Global Game Jam 2013 by me and Chloi Rad. The Polygraph is a noir-themed detective story has the player trying to maintain calm through a polygraph test by hitting space at just the right moment in a rhythm game. <a href="http://ggj.soe.ucsc.edu/node/91"><strong>[Voted Best Use of Theme and #3 Overall at UCSC Jam Site]</strong></a><br><br>
-						Also Covered in <a href="http://www.pcgamer.com/2013/01/29/five-terrific-games-from-the-global-game-jam-2013/"><strong>PC Gamer</strong></a>
-					</p>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					January 2013 - Development time: 48 hours - Music by <a href="https://soundcloud.com/peter-hunter">Peter Hunter</a></strong>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://gamejolt.com/games/other/our-neighborhood/21801/"><strong>Our Neighborhood</strong></a>
-					</div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left">
-						<strong>Genre: Gentrification</strong>
-					</div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="/thumbs/ourneighborhood.png" border="1"></iframe></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">
-						This was a game made for Global Game Jam 2014 that I consider unfinished. It's about the current tech boom in San Francisco and the gentrification that it brings to various neighborhoods in the Bay Area. Maybe I'll add more to it one day, but for now it's more of an experience than a game.
-					</p>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					January 2014 - Development time: 48 hours - Music by Plone</strong>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
 
 </div>
 
