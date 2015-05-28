@@ -78,38 +78,6 @@ pageOrder: 1
 		<tbody>
 			<tr bgcolor="#111111" valign="top">
 				<td class="style20" width="196">
-					<div class="style23" align="left"><a href="http://gamejolt.com/games/other/our-neighborhood/21801/"><strong>Our Neighborhood</strong></a>
-					</div>
-				</td>
-				<td class="style20" width="394">
-					<div class="style23" align="left">
-						<strong>Genre: Gentrification</strong>
-					</div>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20">
-					<div class="style13" align="left"><img src="/thumbs/ourneighborhood.png" border="1"></iframe></div>
-				</td>
-				<td class="style20">
-					<p class="style23" align="left">
-						This was a game made for Global Game Jam 2014 that I consider unfinished. It's about the current tech boom in San Francisco and the gentrification that it brings to various neighborhoods in the Bay Area. Maybe I'll add more to it one day, but for now it's more of an experience than a game.
-					</p>
-				</td>
-			</tr>
-			<tr bgcolor="#111111" valign="top">
-				<td colspan="2" class="style20">
-					<div class="style23" align="left"><strong>Created:
-					January 2014 - Development time: 48 hours - Music by Plone</strong>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<table bgcolor="#8ad2e3" border="2" bordercolor="#000000" cellpadding="4" cellspacing="12" width="640">
-		<tbody>
-			<tr bgcolor="#111111" valign="top">
-				<td class="style20" width="196">
 					<div class="style23" align="left"><a href="http://2013.globalgamejam.org/2013/polygraph"><strong>The Polygraph</strong></a>
 					</div>
 				</td>
